@@ -1,4 +1,4 @@
-package guru.qa;
+package com.kochetkov;
 
 public class EnumExample {
 

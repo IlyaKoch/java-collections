@@ -1,4 +1,4 @@
-package guru.qa;
+package com.kochetkov;
 
 public enum Button {
     CANCEL("Кнопка cancel"),
@@ -14,6 +14,4 @@ public enum Button {
     public String getButtonName() {
         return buttonName;
     }
-
-
 }
