@@ -4,7 +4,6 @@ import java.util.*;
 
 public class ListExample {
     public static void main(String[] args) {
-
 /*        List<String> list = new ArrayList<>();
 //        list.add("aaa");
 //        list.add("bbb");
@@ -52,6 +51,4 @@ public class ListExample {
     private static int countUnique(List<Integer> list) {
         return new HashSet<>(list).size();
     }
-
-
 }

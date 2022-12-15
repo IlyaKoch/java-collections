@@ -42,5 +42,3 @@ public class TreeMapExample {
         return map1.size() == new HashSet<>(map1.values()).size();
     }
 }
-
-
